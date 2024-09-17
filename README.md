@@ -1,5 +1,3 @@
-Let's walk through each section of the Python code from the file you uploaded and explain what's happening:
-
 ### 1. **Importing Libraries**:
 ```python
 import numpy as np
